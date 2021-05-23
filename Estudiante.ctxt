@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Estudiante
+comment1.params=
+comment1.target=Estudiante()
+comment2.params=nom
+comment2.target=void\ a\u00F1adirNombre(java.lang.String)
+comment3.params=
+comment3.target=int\ getEstudiante()
+comment4.params=index
+comment4.target=void\ listaNomEst(int)
+comment5.params=index
+comment5.target=void\ borrarEstudiante(int)
+numComments=6
