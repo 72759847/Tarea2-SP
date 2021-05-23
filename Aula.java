@@ -12,7 +12,7 @@ public class Aula
         estu = new ArrayList<String> ();
         estudiante = new Estudiante();
     }
-    //Metodo para añadir 
+    //Metodo para añadir nota al estudiante
     public  void añadirNota(int notaEs){
         nota.add(notaEs);
     }
